@@ -1,0 +1,5 @@
+# Exclude default macOS binaries
+*.DS_Store
+
+# Exlude develop dir
+MSQ-Consulting
